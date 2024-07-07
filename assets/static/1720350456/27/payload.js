@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/27", {data:[{album:{date:"2021年12月04日",normalList:[{name:"20211204_135516"},{name:"20211204_135532"},{name:"20211204_135546"},{name:"20211204_135549"},{name:"20211204_135551"}],quality:"12k",size:{w:11648,h:4876},center:{x:.395,y:.6}},title:"27屆 學士服大合照｜學士服團拍｜文華高中制服日",description:"提供下載以及預覽學士服合照的頁面"}],fetch:{},mutations:void 0});
