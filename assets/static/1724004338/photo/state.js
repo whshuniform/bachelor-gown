@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fbachelor-gown\u002Fassets\u002Fstatic\u002F1724004338",layout:"fullScreen",error:a,serverRendered:true,routePath:"\u002Fphoto",config:{_app:{basePath:"\u002Fbachelor-gown\u002F",assetsPath:"\u002Fbachelor-gown\u002Fassets\u002F",cdnURL:a}}}}(null));
