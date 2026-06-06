@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /photo
+
+Sitemap: https://whshuniform.github.io/bachelor-gown/sitemap.xml

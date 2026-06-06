@@ -1,0 +1,23 @@
+[
+  {
+    "name": "photo",
+    "path": "/photo",
+    "component": "/Users/user/Documents/Project/BachelorGown/BachelorGown/pages/photo.vue",
+    "chunkName": "pages/photo",
+    "_name": "_67b30824"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/user/Documents/Project/BachelorGown/BachelorGown/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_62dfd2e4"
+  },
+  {
+    "name": "class",
+    "path": "/:class",
+    "component": "/Users/user/Documents/Project/BachelorGown/BachelorGown/pages/_class/index.vue",
+    "chunkName": "pages/_class/index",
+    "_name": "_c71d68a0"
+  }
+]
